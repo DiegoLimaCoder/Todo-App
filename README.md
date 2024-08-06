@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu projeto Vue:
-
----
-
 # Todo App
 
 Este é um aplicativo simples de lista de tarefas (Todo App) construído com Vue 3 e TypeScript. Ele permite adicionar, remover e limpar tarefas.
